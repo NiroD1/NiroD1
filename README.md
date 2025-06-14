@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Computer science student.<br>🚀I'm currently learning C and building a strong foundation in DSA.<br>💡Here to share my efforts and learn by building interesting things!<br>
+💻Computer science student at the University of Béjaïa.<br>🚀Passionate about systems, algorithms, and low-level programming.<br>💡Here to share my efforts and learn by building interesting things!<br>
 
 
 ## 🌐 Socials:
